@@ -1,0 +1,9 @@
+package com.stqa.practical.thirteen;
+
+import org.testng.annotations.Test;
+
+public class DataDrivenFramework {
+  @Test
+  public void f() {
+  }
+}

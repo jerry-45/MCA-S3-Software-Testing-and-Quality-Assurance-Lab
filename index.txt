@@ -1,0 +1,29 @@
+01 | Take a review and write test cases for any known application.
+
+02 | Implement Web Drivers on Chrome & Firefox Browsers.
+
+03 | Demonstrate handling multiple frames in selenium. 
+
+04 | Implement Browser command & navigation commands. 
+
+05 | Implement the find element command. 
+
+06 | Demonstrate the Locator (id, css selector, path). 
+
+07 | Demonstrate synchronization in selenium. 
+
+08 | Demonstrate different types of alerts. 
+
+09 | Demonstrate handling drop down & list boxes. 
+
+10 | Demonstrate Command Button, radio button & text boxes, wait command in selenium. 
+
+11 | Demonstrate action classes in selenium. 
+
+12 | Installation of TestNg, running testing and TestNg annotation. 
+
+13 | Demonstrate data driven framework. 
+
+14 | Demonstrate Validation testing, asserts
+
+15 | Perform regression testing. 

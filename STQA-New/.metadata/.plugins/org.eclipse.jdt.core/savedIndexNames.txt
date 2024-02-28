@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+C:\Users\Administrator\eclipse-workspace\STQA-New\.metadata\.plugins\org.eclipse.jdt.core
+3932541832.index
+2640503582.index
+1865797976.index
+50755261.index
+1946240555.index
+2222576223.index
+4085179081.index
+438126588.index

@@ -1,0 +1,9 @@
+package com.stqa.practical.fourteen;
+
+import org.testng.annotations.Test;
+
+public class assertTrue {
+  @Test
+  public void f() {
+  }
+}

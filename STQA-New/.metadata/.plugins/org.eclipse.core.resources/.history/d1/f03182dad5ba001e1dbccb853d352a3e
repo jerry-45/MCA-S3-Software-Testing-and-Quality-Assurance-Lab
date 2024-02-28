@@ -1,0 +1,9 @@
+package com.stqa.practical.twelve;
+
+import org.testng.annotations.Test;
+
+public class AnnotationTestNG {
+  @Test
+  public void f() {
+  }
+}

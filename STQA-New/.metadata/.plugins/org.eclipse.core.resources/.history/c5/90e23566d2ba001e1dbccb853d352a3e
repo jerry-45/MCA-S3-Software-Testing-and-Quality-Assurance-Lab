@@ -1,0 +1,23 @@
+package com.stqa.practical.three;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class HindlingMultipleFrames {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//step 1
+		System.setProperty("webdriver.gecko.driver","E:\\\\Study Materials\\\\Academics\\\\MCA\\\\MCA SEM III\\\\# Repos\\\\MCA-Software-Testing-and-Quality-Assurance-Lab\\\\Required Tools & Software\\\\geckodriver.exe");
+		WebDriver driver = new FirefoxDriver(); //navigates to the browser
+		driver.get("https://www.w3schools.com/css/default.asp");//navigates to the page consisting an iframe
+		driver.manage().window().maximize();
+		//step 2
+		driver.switchTo().frame("GTM-KTCFC3S"); //switching the frame by ID
+		System.out.println("********We are switch to iframe********");
+		driver.findElement(By.xpath("html/body/a/img")).click(); //Clicks the iframe
+		System.out.println("********We are done********");
+	}
+
+}
